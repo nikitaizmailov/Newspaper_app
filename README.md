@@ -4,7 +4,7 @@ basically as facebook wall.
 
 =======================
 To run this website:
-1) Place this folder in a separately on the desktop, not inside any folders or files.
+1) Place this files into a FOLDER on the computer desktop.
 2) Open terminal(Mac) and locate to this folder. cd "Newspaper_app"
 3) Write into terminal - pipenv install django==2.1 - You have installed django and created virtual environment
 4) Go into virtual environment by putting this into terminal - pipenv shell
